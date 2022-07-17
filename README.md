@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/card-component-builded-with-flexbox-sBxao7zZza
 - Live Site URL: https://ferlagher.github.io/FMC-Product-preview-card
 
 ## My process
